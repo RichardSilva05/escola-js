@@ -1,4 +1,4 @@
-function sortearNota() {
+ function sortearNota() {
   // Gera uma nota aleatória entre 0 e 10 com 1 casa decimal
   return parseFloat((Math.random() * 10).toFixed(1));
 }
